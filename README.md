@@ -1,4 +1,4 @@
-## Hi there! Eu sou o Lucas! 👋
+## Olá! Eu sou o Lucas! 👋
 
 - 🔥 Atualmente estou trabalhando como FullStack Software Developer!
 - ✅ Gosto de aprender coisas novas!
